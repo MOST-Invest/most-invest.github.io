@@ -1,0 +1,12 @@
+.footer {
+  padding: 70px;
+}
+
+.legal {
+  text-align: center;
+  font-size: 14px;
+}
+
+.legal a {
+  text-decoration: none;
+}
